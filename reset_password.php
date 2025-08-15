@@ -15,7 +15,7 @@ try {
     if ($stmt->rowCount() > 0) {
         echo "Senha do usuário admin resetada com sucesso!<br>";
         echo "Login: admin<br>";
-        echo "Senha: @Ahackerwan123<br>";
+        echo "Senha: admin<br>";
     } else {
         echo "Usuário admin não encontrado!<br>";
     }
