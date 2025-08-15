@@ -9,7 +9,7 @@ $remote_ip = $_SERVER['REMOTE_ADDR'];
 $allowed_ips = ['127.0.0.1', '::1']; 
 
 // IP PRA QUEM VAI ACESSAR: $allowed_ips = ['127.0.0.1', '::1', '203.111.222.333'];
-
+// Caso queria testar deixe o allowed_ips = []
 $is_your_ip = in_array($remote_ip, $allowed_ips);
 
 
