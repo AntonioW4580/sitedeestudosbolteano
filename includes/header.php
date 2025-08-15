@@ -267,6 +267,7 @@ $is_your_ip = in_array($remote_ip, $allowed_ips);
                     <!-- Apenas para seu IP: mostrar botão de login -->
                     <a href="login.php">🤖 Login</a>
                 <?php endif; ?>
+                <a href="pomodoro.php">🍅 Pomodoro</a>
             </div>
         </nav>
     </div>
