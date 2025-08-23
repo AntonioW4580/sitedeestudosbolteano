@@ -1,0 +1,150 @@
+Lista de exercícios – Cinemática I
+01. Um trem se move com velocidade
+constante de 144 km/h e atravessa uma ponte
+de 90 m de comprimento em 4,5 s. Qual é o
+comprimento do trem?
+
+a aceleração da gravidade no local do
+lançamento igual a 10 m/s2 e desprezando o
+atrito da pedra com o ar, assinale o que for
+correto.
+
+a) 60 m
+
+01. No instante 4 s, a pedra atinge a altura
+máxima e a sua aceleração é nula.
+
+b) 75 m
+02. A altura máxima atingida pela pedra é 80m.
+c) 90 m
+d) 100 m
+e) 120 m
+02. Os dois automóveis A e B da figura realizam
+movimentos retilíneos e uniformes. Sabe-se
+que a velocidade de A vale 10m/s e que colide
+com B no cruzamento C. A velocidade de B é
+igual a:
+a) 2,0 m/s.
+b) 4,0 m/s.
+c) 6,0 m/s.
+
+04. O movimento da pedra pode ser descrito
+pela função y = 40t – 5t2 .
+08. A aceleração sobre a pedra tem intensidade
+constante, porém o seu sentido é invertido
+quando a pedra inverte o sentido do seu
+movimento.
+16. A velocidade de lançamento da pedra é 40
+
+m/s.
+05.(PUC RJ) Um objeto é lançado
+verticalmente para cima a partir do solo.
+Sua velocidade é descrita no gráfico abaixo.
+
+d) 8,0 m/s.
+e) 10 m/s.
+03. (UNESP SP) Num caminhão-tanque em
+movimento, uma torneira mal fechada goteja à
+razão de 2 gotas por segundo. Determine a
+velocidade do caminhão, sabendo que a
+distância entre marcas sucessivas deixadas
+pelas gotas no asfalto é de 2,5 metros.
+a) 9 km/h
+b) 18 km/h
+c) 27 km/h
+d) 36 km/h
+
+A altura máxima atingida pelo objeto em
+metros é:
+a) 115.
+b) 120.
+c) 125.
+
+e) 72 km/h
+
+d) 130.
+04. (UEPG) O gráfico abaixo representa a
+posição de uma pedra, lançada verticalmente
+para cima, em função do tempo. Considerando
+
+e) 135.
+
+Universidade Federal do Paraná - Campus Avançado de Jandaia do Sul - Curso Alcance UFPR
+
+06.tVUNESP7 Num lugar onde g E 3ã mâs° 9
+uma pequena esfera de chumbo é
+abandonada de uma altura de 39à m acima
+da superfície da água de uma piscina e
+atinge seu fundo ã9àã s após seu
+abandonoj Sabeçse que abaixo da
+superfície a esfera se move de modo
+uniforme com a mesma velocidade com
+que a atingiuj Abandonandoçse novamente
+a esfera do mesmo lugar9 com a piscina
+vazia9 o tempo gasto para atingir seu fundo
+será deC
+a7 ã9(( s
+b7 ã9²ã s
+c7 ã9OB s
+d7 ã9àã
+07.tUECE7 Num lugar em que g E 3ã mâs° 9
+lançamos um projétil com a velocidade de
+3ãã mâs e formando com a horizontal um
+ângulo de elevação de 5ã°j A altura
+máxima será atingida apósC
+a7 5s
+b7 Os
+
+relação entre a velocidade inicial do Superç
+homem e a altura atingida é dada porC v² E
+°ghj A altura que o Superçhomem alcança
+em seu salto depende do quadrado de sua
+velocidade inicial porqueC
+:A7 a altura do seu pulo é proporcional à
+sua velocidade média multiplicada pelo
+tempo que ele permanece no ar ao
+quadradoj
+:B7 o tempo que ele permanece no ar é
+diretamente proporcional à aceleração da
+gravidade e essa é diretamente
+proporcional à velocidadej
+:C7 o tempo que ele permanece no ar é
+inversamente proporcional à aceleração da
+gravidade e essa é inversamente
+proporcional à velocidade médiaj
+:D7 a aceleração do movimento deve ser
+elevada ao quadrado9 pois existem duas
+acelerações envolvidasC a aceleração da
+gravidade e a aceleração do saltoj
+:E7 a altura do pulo é proporcional à sua
+velocidade média multiplicada pelo tempo
+que ele permanece no ar9 e esse tempo
+também depende da sua velocidade inicialj
+
+c7 Hs
+d7 3ãs
+e7 3Hs
+08.tENEM/2009)O Superçhomem lançaçse
+no espaço para chegar ao topo de um
+prédio de altura Hj Seria possível admitir
+que com seus superpoderes ele estaria
+voando com propulsão própria9 mas
+considere que ele tenha dado um forte
+saltoj Neste caso9 sua velocidade final no
+ponto mais alto do salto deve ser zero9
+caso contrário9 ele continuaria subindoj
+Sendo g a aceleração da gravidade9 a
+
+Respostas
+3çC
+°çC
+5çB
+Oç °9O93²
+Hç C
+²çA
+(çC
+à çE
+
+Universidade Federal do Paraná - Campus Avançado de Jandaia do Sul - Curso Alcance UFPR
+
+
